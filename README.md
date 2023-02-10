@@ -157,7 +157,7 @@ https://start.spring.io/
  ### Autores
 
 - Carol Vilchez https://github.com/Carol21d
-- Caren Salles https://github.com/CarenSalles
+- Caren Salles https://github.com/CarenSalles (Scrum Master)
 - Enol Igareta https://github.com/EnolCode
 - Raúl Martinez https://github.com/RaulMartinezF5
-- Gabriel Mendéz https://github.com/GabriMF
+- Gabriel Mendéz https://github.com/GabriMF (Product Owner)
