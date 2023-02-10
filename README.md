@@ -62,8 +62,9 @@ No se pueden usar otras librerias o frameworks que los espicificados.# <p align=
 ![captura_de_pantalla_2023-02-09_a_las_22 07 08_720](https://user-images.githubusercontent.com/116892294/217942035-4e7d7712-e62e-4647-8477-80c12ac7c86d.png)
 
 ![formanimals_720](https://user-images.githubusercontent.com/116892294/217943660-6bdab640-db64-43a2-85e1-3153869f0064.png)
-![image](https://user-images.githubusercontent.com/116892825/218055099-b1321fef-8930-4760-a304-7e1283caa642.png)
-![image__1__720](https://user-images.githubusercontent.com/116892294/217944015-278770b8-33a4-4403-b34c-b4f5372ce723.png)
+![image](https://user-images.githubusercontent.com/116892825/218055569-ef117d5e-b253-47ef-912c-7797d58e0afc.png)
+
+ ![image__1__720](https://user-images.githubusercontent.com/116892294/217944015-278770b8-33a4-4403-b34c-b4f5372ce723.png)
 
 ![UserFlow](https://user-images.githubusercontent.com/116892294/217943442-b114ef69-23b8-40e1-9c6c-9517975ccb9b.png)
 
